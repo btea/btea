@@ -2,7 +2,7 @@
 <div align=center>
   人生如棋，落子无悔。
   <div>
-    <img src="./jmz.png" width="400" style="margin-top: 20px;"/>
+    <img src="./jmz-removebg-preview.png" width="400" style="margin-top: 20px;"/>
   </div>
 <!--   <img src="https://octodex.github.com/images/original.png" width="150px" height="150px" center /> -->
 </div>
